@@ -26,6 +26,7 @@ public class ContactAddActivity extends Activity {
 		intent.putExtra("addedNo", e2.getText().toString());
 		setResult(4, intent);
 		finish();
+		//mayuretbdhj
 		
 	}
 
